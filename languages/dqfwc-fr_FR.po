@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Decimal Quantities for WooCommerce 1.0\n"
+"POT-Creation-Date: 2024-07-13 12:00+0000\n"
+"PO-Revision-Date: 2024-07-13 12:00+0000\n"
+"Last-Translator: Votre Nom <votremail@example.com>\n"
+"Language-Team: French <claire.marchyllie25@gmail.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: includes/check-woocommerce.php:15
+msgid "WooCommerce is required for the Decimal Quantities For WooCommerce Plugin to work. Please install and activate WooCommerce."
+msgstr "WooCommerce est requis pour que le plugin Decimal Quantities For WooCommerce Plugin fonctionne. Veuillez installer et activer WooCommerce."
+
+#: includes/integer-or-decimals-settings.php:13
+msgid "No Decimal Quantity (integer)"
+msgstr "Quantité non-décimale (nombre entier)"
+
+#: includes/integer-or-decimals-settings.php:14
+msgid "Leave unchecked for decimal quantity (check this box if the product quantity should be an integer, non-decimal number)"
+msgstr "Laissez décoché pour une quantité décimale (cochez cette case si la quantité du produit doit être un nombre entier, sans décimales)"
